@@ -1,1 +1,1 @@
-Simple calculator aplication made in java.
+Simple clock made from HTML, CSS, and Javascript
