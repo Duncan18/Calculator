@@ -1,0 +1,11 @@
+.bod {
+    background-color: tomato;
+}
+
+.clock {
+    color: #404040;
+    font-style: italic;
+    font-size: 200px;
+    text-align: center;
+    padding: 150px;
+}
